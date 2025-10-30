@@ -55,5 +55,3 @@ Strengthening problem-solving and data interpretation skills
 📁 Deliverables
 
 10 SQL scripts answering ad-hoc business questions
-
-A summary document explaining the insights derived from each query
